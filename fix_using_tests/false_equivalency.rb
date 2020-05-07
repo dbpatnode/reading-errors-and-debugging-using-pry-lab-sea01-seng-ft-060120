@@ -1,4 +1,5 @@
 require 'pry'
+binding.pry
 
 def get_user_input
   gets.chomp
